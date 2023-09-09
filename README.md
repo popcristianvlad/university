@@ -6,4 +6,5 @@ This repo contains code I wrote at university (Technical Univeristy of Cluj-Napo
 
 ## Directory Structure
     .
-    ├── Sokoban                # Sokoban
+    ├── platform-tile-game                  # Platform Tile Game
+    ├── Sokoban                             # Sokoban
