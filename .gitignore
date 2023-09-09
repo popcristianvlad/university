@@ -1,0 +1,18 @@
+# Intellij IDEA
+.idea
+*.iml
+
+# Visual Studio Code
+.vscode
+
+# Java
+out
+
+# Maven
+target
+
+# Node JS
+node_modules
+
+# Jupyter
+.ipynb_checkpoints
